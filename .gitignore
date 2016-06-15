@@ -1,2 +1,5 @@
 phpunit.xml
 build
+/.idea
+/vendor
+composer.lock
